@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca3b4ef8-084c-40c3-b0ee-31454c99ca7a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/PhotoShare.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="ca3b4ef8-084c-40c3-b0ee-31454c99ca7a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -88,7 +83,7 @@
       <path value="$PROJECT_DIR$/src/static/vendor/mui/plugin/picker/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="98" />
     <option name="y" value="103" />
     <option name="width" value="1750" />
@@ -170,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536461575804</updated>
-      <workItem from="1536461577096" duration="28337000" />
+      <workItem from="1536461577096" duration="28935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28337000" />
+    <option name="totallyTimeSpent" value="28935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="98" y="103" width="1750" height="968" extended-state="0" />
