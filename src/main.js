@@ -27,7 +27,8 @@ import Member from './component/Member.vue';
 import ShopCart from './component/ShopCart.vue';
 import Search from './component/Search.vue';
 import NewsList from './component/NewsList.vue';
-import NewsDetail from './component/NewsDetail.vue'
+import NewsDetail from './component/NewsDetail.vue';
+import PhotoShare from './component/PhotoShare.vue'
 /*inkActiveClass:mui-active, 配置点击链接激活时添加的样式 默认值是router-link-active现在更改成mui-active,
 *原理是根据路由地址匹配
 */
@@ -40,7 +41,8 @@ let router = new VueRouter({
         {name: 'shopcart', path: '/shopcart', component: ShopCart},
         {name: 'search', path: '/search', component: Search},
         {name:'news.list',path:'/news/list',component:NewsList},
-        {name:'news.detail',path:'/news/detail', component:NewsDetail}
+        {name:'news.detail',path:'/news/detail', component:NewsDetail},
+        {name:'photo.share',path:'/photo/share',component:PhotoShare}
     ]
 })
 new Vue({
